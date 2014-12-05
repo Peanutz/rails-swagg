@@ -1,5 +1,11 @@
 == README
 
+YAYAYYA RLY
+
+see : https://gorails.com/guides/using-vagrant-for-rails-development
+and : https://gorails.com/setup/osx/10.10-yosemite
+enjoy the yoloswag
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
